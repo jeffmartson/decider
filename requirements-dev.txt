@@ -4,7 +4,7 @@ cfgv==3.3.1
 charset-normalizer==3.1.0
 distlib==0.3.6
 dparse==0.6.2
-filelock==3.11.0
+filelock==3.20.3
 flake8==6.0.0
 identify==2.5.22
 idna==3.7
@@ -25,6 +25,6 @@ ruamel.yaml==0.18.5
 ruamel.yaml.clib==0.2.8
 safety==2.3.4
 toml==0.10.2
-urllib3==2.2.2
+urllib3==2.6.3
 virtualenv==20.21.0
 wcwidth==0.2.6
